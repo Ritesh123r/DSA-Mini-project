@@ -49,7 +49,7 @@ Part 2: Start at all nodes ending in 'A', reach nodes ending in 'Z' simultaneous
 📌 Features:
 Input parsing from a file or manually.
 
-Graph traversal logic implemented using maps.
+Uses string ,vector,set 
 
 Handles repetitive patterns via modular arithmetic or cycle detection.
 
