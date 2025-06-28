@@ -30,7 +30,7 @@ Display all tasks sorted by priority.
 
 Retrieve highest priority task.
 
-Uses STL priority_queue and map for optimal performance.
+Uses STL priority_queue  for optimal performance.
 
 📂 Files:
 TaskManagerProject.cpp
