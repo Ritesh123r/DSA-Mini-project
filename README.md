@@ -14,13 +14,7 @@ Rejects withdrawal requests if exact amount cannot be dispensed.
 OOP-based clean class design using encapsulation.
 
 📂 Files:
-ATM.cpp
-
-🛠️ How to Run:
-bash
-Copy code
-g++ ATM.cpp -o atm
-./atm
+AtmProject.cpp
 
 
 ⚙️ Task 2 - Task Manager with Priority Scheduling
@@ -39,13 +33,9 @@ Retrieve highest priority task.
 Uses STL priority_queue and map for optimal performance.
 
 📂 Files:
-TaskManager.cpp
+TaskManagerProject.cpp
 
-🛠️ How to Run:
-bash
-Copy code
-g++ TaskManager.cpp -o taskmanager
-./taskmanager
+
 
 
 🧭 Task 3 - The Trial of the Cheater’s Path
@@ -64,13 +54,9 @@ Graph traversal logic implemented using maps.
 Handles repetitive patterns via modular arithmetic or cycle detection.
 
 📂 Files:
-CheatersPath.cpp
+CheatersPathProject.cpp
 
-🛠️ How to Run:
-bash
-Copy code
-g++ CheatersPath.cpp -o cheater
-./cheater
+
 
 
 
